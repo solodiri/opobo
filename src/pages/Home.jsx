@@ -18,7 +18,7 @@ const Home = () => {
         <p className="subheading">We are the Trailblazers.</p>
         <span className="motto">(Mingi Chikiri fa fagha)</span>
         <Link to="/details">
-          <button className="readmore btn">Read More</button>
+          <button className="readmore btn">Read About Jaja</button>
         </Link>
       </div>
 
